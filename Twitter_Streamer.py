@@ -1,8 +1,8 @@
 # Variables that contain user credentials to access Twitter API.
-access_token = "2431996178-1pJ11yGH6xVFrRiWRsWn614riUfQEbQEy7sCPNb"
-access_token_secret = "ZjI6sJbZU3iZrKrlB2AeiTfYSGASrwFqeIemkrTQlhs2I"
-consumer_key = "QNTCcNbdR8UWISZdLsmTdXHEy"
-consumer_secret = "4vcdQ9SXGHjLbxYKXAXSbAmtqyY0uHRYXbushqAEmkwSEgv98F"
+access_token = ""
+access_token_secret = ""
+consumer_key = ""
+consumer_secret = ""
 
 # Streaming
 # StreamListener is a class of the tweepy.streaming module.
